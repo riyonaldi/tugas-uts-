@@ -1,0 +1,7 @@
+D:\ASU\UTS\UTS\obj\Debug\UTS.csprojAssemblyReference.cache
+D:\ASU\UTS\UTS\obj\Debug\UTS.csproj.CoreCompileInputs.cache
+D:\ASU\UTS\UTS\bin\Debug\UTS.exe.config
+D:\ASU\UTS\UTS\bin\Debug\UTS.exe
+D:\ASU\UTS\UTS\bin\Debug\UTS.pdb
+D:\ASU\UTS\UTS\obj\Debug\UTS.exe
+D:\ASU\UTS\UTS\obj\Debug\UTS.pdb
